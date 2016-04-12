@@ -1,6 +1,6 @@
 # World of Warcraft Chinese Dictionary
 
-This dictionary is discovered by word extraction algorithm from all zh_cn locale strings exported from database client. This is the raw output, not revised by human.
+This dictionary is discovered by word extraction algorithm from all zh_cn locale strings exported from database client. This is the raw output, not revised by human, so the precision and recall rate are without any guarantee.
 
 The dict is encoded as UTF-8(with BOM), tab-delimited. Line ends with single LF(Unix style).
 
